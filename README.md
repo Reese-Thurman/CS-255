@@ -7,6 +7,6 @@ CS-255 Projects (System Analysis and Design)
 3. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 > If I could revise one part of project, it would be the business requirements document. It would have been more helpful to compelete additional research on different cloud technologies in order to fully understand the technical requirements needed to complete the project.
 4. How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-> The best way to interpret user needs and implement them into a system design is through user interviews. Feedback from users and other stakeholders is important to ensure the design meets the user's needs. It is important to understand what the user requires in order to develop the best solution to a problem. 
+> I interpreted the user needs and implemented them into the system design through analysis of user interviews. Feedback from users and other stakeholders is important to ensure the design meets the user's needs. It is important to understand what the user requires in order to develop the best solution to a problem. 
 5. How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 > My approach to developing software is a flexible and interative, user-centered approach that incorporates feedback from users and other stakeholders to ensure the software design meets the client's needs.
